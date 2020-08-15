@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India mainly working on React</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apshada" alt="apshada" /> </p>
 
 - 👨‍💻 All of my projects are available at [http://apshada.netlify.com/](apshada1)
