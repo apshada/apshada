@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apshada" alt="apshada" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://apshada.netlify.com/](apshada1)
+- 👨‍💻 All of my projects are available at [apshada](http://apshada.netlify.com/)
 
 - 💬 Ask me about **react**
 
